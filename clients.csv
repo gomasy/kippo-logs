@@ -1,0 +1,25 @@
+id,version,count(sessions.client)
+1,"SSH-2.0-libssh2_1.6.0",419
+2,"SSH-2.0-libssh2_1.4.2",15
+3,"SSH-2.0-libssh2_1.4.3",3148
+4,"SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18",13
+5,"SSH-2.0-MEDUSA_1.0",6
+6,"SSH-1.99-3.2.9 SSH Secure Shell for Windows",3
+7,"SSH-2.0-ChilkatSSH_2.0.0",2
+8,"SSH-2.0-OpenSSH_5.3",6
+9,"SSH-2.0-libssh2_1.4.0",78
+10,"SSH-2.0-paramiko_1.8.1",17
+11,"SSH-2.0-Granados-1.0",22
+12,"SSH-2.0-JSCH-0.1.51",10
+13,"SSH-2.0-PuTTY",11
+14,"SSH-2.0-OpenSSH_6.2p2 Ubuntu-6",5
+15,"SSH-2.0-nsssh2_4.0.0032 NetSarang Computer, Inc.",1
+16,"SSH-2.0-PuTTY_Release_0.63",49
+17,"SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2",29
+18,"SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.3",1
+19,"SSH-2.0-libssh2_1.4.2 PHP",1
+20,"SSH-2.0-paramiko_1.15.3",8
+21,"SSH-2.0-OpenSSH-keyscan",4
+22,"SSH-2.0-Twisted",1
+23,"SSH-2.0-paramiko_1.15.2",1
+24,"SSH-2.0-JSCH-0.1.53",90
